@@ -24,7 +24,6 @@ MusicApp UI is a beautifully designed user interface for a music application. De
 
 -Clone the repository:
 
-```sh
 git clone https://github.com/yourusername/musicapp-ui.git
 
 _Open Android Studio and select Open an existing project.
